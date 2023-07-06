@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  overflow-x: hidden;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100&family=Montserrat:wght@700&family=Roboto:wght@300&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Martian+Mono:wght@100&family=Montserrat:wght@700&family=Roboto:wght@300&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Martian+Mono:wght@100&family=Montserrat:wght@700&family=Roboto:wght@300&display=swap");
+
+body {
+  background-color: #ffff;
+}
+
+h1 {
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
+  position: relative;
+  top: -320px;
+  left: 635px;
+  width: 590px;
+  font-weight: 700;
+  font-size: 65px;
+  padding: 10px 10px 15px;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Inconsolata", monospace;
+  position: relative;
+  top: 40px;
+  font-size: 24px;
+  left: 55px;
+  width: 355px;
+  height: 45px;
+}
+
+img {
+  width: 539.22px;
+  height: 443.43px;
+  position: relative;
+  top: 165px;
+  left: 57px;
+}
+
+p {
+  position: relative;
+  top: -280px;
+  left: 645px;
+  font-size: 24px;
+  width: 381px;
+  line-height: 34.54px;
+  font-family: "Inconsolata", monospace;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+button {
+  width: 200px;
+  height: 35px;
+  font-size: 18px;
+  position: relative;
+  left: 650px;
+  top: -250px;
+  background-color: #000000;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #000000;
+}
+
+a {
+  text-decoration: inherit;
+  color: #ffffff;
+}
+
+#felipe {
+  font-family: "Roboto", sans-serif;
+  font-family: "Martian Mono", monospace;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Inconsolata", monospace;
+  font-size: 18px;
+  position: relative;
+  color: #ada9a9;
+  top: -10px;
+  left: 530px;
+}
+
+::-webkit-scrollbar {
+  color: #000000;
+}
+
+@media screen and(max-width:949px) {
+}
